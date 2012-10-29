@@ -7,7 +7,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("Branch merged and then something");
+		System.out.println("second_branch created with merge as pull strategy. ");
 
 	}
 
