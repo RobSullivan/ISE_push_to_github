@@ -7,7 +7,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("This project has been added to GitHub");
+		System.out.println("This project was actually imported from GitHub");
 
 	}
 
