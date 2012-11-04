@@ -7,7 +7,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("second_branch created with merge as pull strategy. ");
+		System.out.println("second_branch asgasdg with merge as pull strategy. ");
 
 	}
 
